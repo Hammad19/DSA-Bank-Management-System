@@ -1,0 +1,16 @@
+12,Ali,ABC,Transfer,44956
+12551,Ali,ABCas,Transfer,32405
+242,Ali,QEDD,Transfer,32163
+123,Haya,Phone,Top-Up,74757
+575,Haya,Phone,Top-Up,74182
+7,Haya,Phone,Top-Up,74175
+6,Haya,Phone,Top-Up,74169
+64,Haya,Phone,Top-Up,74105
+90,Ali,XYXY,Transfer,32073
+10,Afifa,wsdefrgthyjukilo,Transfer,12446151
+1324354,Afifa,dsfdghj,Transfer,11121797
+12345,Afifa,Phone,Top-Up,11109452
+20000,Hammad,Ali,Transfer,30000
+20000,Hammad,Ali,Transfer,30000
+400,Hammad,Phone,Top-Up,29600
+400,Hammad,Phone,Top-Up,29600
